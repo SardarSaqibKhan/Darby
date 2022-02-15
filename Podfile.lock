@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.0)
+  - DLRadioButton (1.4.12)
+
+DEPENDENCIES:
+  - Alamofire
+  - DLRadioButton
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DLRadioButton
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+
+PODFILE CHECKSUM: 09f412c1ebb2ede512b034a28e29aab00e6de7d0
+
+COCOAPODS: 1.8.3
